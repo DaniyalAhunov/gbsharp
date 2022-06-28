@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Введите целое число ");
-            int numbers = Convert.ToInt32(Console.ReadLine());
-            string number = numbers.ToString();
-            if(numbers > 99)
+            //int numbers = Convert.ToInt32(Console.ReadLine());
+            string number = Console.ReadLine().ToString();
+            if(Convert.ToInt32(number) > 99)
             {
                 Console.WriteLine($" 3я цивра в вашем числе {number[2]} ");
             }
