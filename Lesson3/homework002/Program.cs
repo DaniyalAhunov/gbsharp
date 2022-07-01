@@ -16,12 +16,12 @@
             int xb = Convert.ToInt32(bsplit[0]);
             int yb = Convert.ToInt32(bsplit[1]);
             int zb = Convert.ToInt32(bsplit[2]);
-            double ab = Ploskost(xa, ya, za, xb, yb, zb);
+            double ab = GetRootNumbers(xa, ya, za, xb, yb, zb);
             Console.WriteLine($"Точка в 3D простанстве {ab}");
             Console.ReadKey();
 
         }
-        static double Ploskost(int xa, int ya, int za, int xb, int zb, int yb)
+        static double GetRootNumbers (int xa, int ya, int za, int xb, int zb, int yb)
         {
             double log = (xa + xb) * (xa + xb) + (ya + yb) * (ya + yb) + (za + zb) * (za + zb);
             double ab = Math.Sqrt(log);
