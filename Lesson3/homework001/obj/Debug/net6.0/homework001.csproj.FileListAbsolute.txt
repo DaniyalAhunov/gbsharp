@@ -1,0 +1,5 @@
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson3/homework001/obj/Debug/net6.0/homework001.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson3/homework001/obj/Debug/net6.0/homework001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson3/homework001/obj/Debug/net6.0/homework001.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson3/homework001/obj/Debug/net6.0/homework001.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson3/homework001/obj/Debug/net6.0/homework001.csproj.CoreCompileInputs.cache

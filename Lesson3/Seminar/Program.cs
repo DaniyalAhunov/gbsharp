@@ -29,7 +29,6 @@ namespace seminar
                 else if (num == 4)
                     {
                         Console.WriteLine($" Диапазон 4 четверти:  0 < X < {max} и {min} < Y < 0 "); 
-
                     }
                 else
                     {
@@ -40,7 +39,7 @@ namespace seminar
             }
             catch 
             {
-                Console.WriteLine($" Введите нужное значение");
+                Console.WriteLine($" Введите нужное значение ");
             }
         }
     }
