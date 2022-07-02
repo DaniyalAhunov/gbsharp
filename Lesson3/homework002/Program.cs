@@ -17,13 +17,14 @@
             int yb = Convert.ToInt32(bsplit[1]);
             int zb = Convert.ToInt32(bsplit[2]);
             double ab = GetRootNumbers(xa, ya, za, xb, yb, zb);
+            
             Console.WriteLine($"Точка в 3D простанстве {ab}");
             Console.ReadKey();
 
         }
-        static double GetRootNumbers (int xa, int ya, int za, int xb, int zb, int yb)
+        static double GetRootNumbers (int xa, int ya, int za, int xb, int yb, int zb)
         {
-            double log = (xa + xb) * (xa + xb) + (ya + yb) * (ya + yb) + (za + zb) * (za + zb);
+            double log = (xb - xa) * (xb - xa) + (yb - ya) * (yb - ya) + (zb - za) * (zb - za);
             double ab = Math.Sqrt(log);
             return ab;
 
