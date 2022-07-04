@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/bin/Debug/net6.0/Seminar
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/bin/Debug/net6.0/Seminar.deps.json
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/bin/Debug/net6.0/Seminar.runtimeconfig.json
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/bin/Debug/net6.0/Seminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/bin/Debug/net6.0/Seminar.pdb
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/refint/Seminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.pdb
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/Seminar.genruntimeconfig.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/Seminar/obj/Debug/net6.0/ref/Seminar.dll
