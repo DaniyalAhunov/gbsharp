@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/bin/Debug/net6.0/homework001
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/bin/Debug/net6.0/homework001.deps.json
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/bin/Debug/net6.0/homework001.runtimeconfig.json
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/bin/Debug/net6.0/homework001.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/bin/Debug/net6.0/homework001.pdb
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/refint/homework001.dll
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.pdb
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/homework001.genruntimeconfig.cache
+/Users/danialahunov/Desktop/ГикБреинс/C#/C#/Lesson4/homework001/obj/Debug/net6.0/ref/homework001.dll
