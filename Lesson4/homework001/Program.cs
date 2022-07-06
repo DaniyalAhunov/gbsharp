@@ -1,5 +1,5 @@
 ﻿//Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
-namespace seminar4
+namespace homework001
 {
     class Program
     {
@@ -11,18 +11,17 @@ namespace seminar4
             int step = Convert.ToInt32(Console.ReadLine());
             int result = Stepen(number, step);
             Console.WriteLine($"{result}");
+            Console.ReadKey();
 
         }
         static int Stepen(int i, int j)
         {
-            
             int result = i;
             for (int count = 1; count < j ; count++)
             {
                 result = result*i;
             }
             return result;
-
         }
     }
 }
