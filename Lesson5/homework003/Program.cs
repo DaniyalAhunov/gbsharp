@@ -11,8 +11,9 @@ namespace homework003
             Console.WriteLine("Первоночальный массив: ");
             FillArray(arrayNumber);
             Console.WriteLine();
-            int sum = SumNechet(arrayNumber);
-            Console.WriteLine($"Разнича между максимальным и минимальным числом: {sum}");
+            int min = MinNumber(arrayNumber);
+            int max = MaxNumber(arrayNumber);
+            Console.WriteLine($"Разница между максимальным числом: {max} и минимальным числом: {min} ровна: {max-min}");
             Console.ReadKey();
 
         }
@@ -31,5 +32,34 @@ namespace homework003
         }
         #endregion
         //Поиск максимального числа в массиве
+        static int MaxNumber(int[] array)
+        #region
+        {
+            int maxValue = int.MinValue;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] > maxValue)
+                {
+                    maxValue = array[i];
+                } 
+            }
+            return maxValue;
+        }
+        #endregion
+        //Поиск миниманого  числа в массиве
+        static int MinNumber(int[] array)
+        #region
+        {
+            int minValue = int.MaxValue;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] < minValue)
+                {
+                    minValue = array[i];
+                } 
+            }
+            return minValue;
+        }
+        #endregion
     }
 }
