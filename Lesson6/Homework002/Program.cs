@@ -19,12 +19,16 @@ namespace homework002
             double k2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите вторую точку второй прямой: ");
             double b2 = Convert.ToInt32(Console.ReadLine());
-            double y1 = Ygr(k1, b1, k2, b2);
-            double y2 = Ygr(k2, b2, k1, b1);
             double x = Ics(k1,b1,k2,b2);
+            double y1 = k1 * x + b1; //Ygr(k1, b1, k2, b2);
+            double y2 = k2 * x + b2; //Ygr(k2, b2, k1, b1);
             if (y1 == y2)
             {
                 Console.WriteLine($"({x};{y1})");
+            }
+            else if (y1 == - Double.NegativeInfinity)
+            {
+                Console.WriteLine($"(Линии паралельны)");
             }
             else
             {
