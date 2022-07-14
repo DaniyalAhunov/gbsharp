@@ -8,52 +8,43 @@ namespace homework002
         static void Main(string[] args)
         {
             try
-            {
+            {   
+                Console.WriteLine("Введите первую точку первой прямой: ");
+                double k1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Введите вторую точку первой прямой: ");
+                double b1 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Введите первую точку второй прямой: ");
+                double k2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Введите вторую точку второй прямой: ");
+                double b2 = Convert.ToInt32(Console.ReadLine());
+                double x = Ics(k1,b1,k2,b2);
+                double y1 = k1 * x + b1; //Ygr(k1, b1, k2, b2);
+                double y2 = k2 * x + b2; //Ygr(k2, b2, k1, b1);
                 
-            
-            Console.WriteLine("Введите первую точку первой прямой: ");
-            double k1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите вторую точку первой прямой: ");
-            double b1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите первую точку второй прямой: ");
-            double k2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введите вторую точку второй прямой: ");
-            double b2 = Convert.ToInt32(Console.ReadLine());
-            double x = Ics(k1,b1,k2,b2);
-            double y1 = k1 * x + b1; //Ygr(k1, b1, k2, b2);
-            double y2 = k2 * x + b2; //Ygr(k2, b2, k1, b1);
-            if (y1 == y2)
-            {
-                Console.WriteLine($"({x};{y1})");
-            }
-            else if (y1 == - Double.NegativeInfinity)
-            {
-                Console.WriteLine($"(Линии паралельны)");
-            }
-            else
-            {
-                Console.WriteLine($"Ваши линии не пересекаются");
-            }
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Ошибка введите числа");
-            }
-
-
-
+                if (y1 == y2)
+                {
+                    Console.WriteLine($"({x};{y1})");
+                }
+                else if (y1 == - Double.NegativeInfinity)
+                {
+                    Console.WriteLine($"(Линии паралельны)");
+                }
+                else
+                {
+                    Console.WriteLine($"Ваши линии не пересекаются");
+                }
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Ошибка введите числа");
+                }
         }
         static double Ics (double k1, double b1, double k2, double b2) 
         {
             double x = (b2 - b1)/(k1 - k2);
             return x;
         }
-        static double Ygr (double k1, double b1, double k2, double b2)
-        {
-            double x = Ics(k1, b1, k2, b2); 
-            double y = k1 * x + b1; 
-            return y;
-        }
+        
 
     }
     
