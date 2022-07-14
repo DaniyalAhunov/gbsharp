@@ -18,8 +18,8 @@ namespace homework002
                 Console.WriteLine("Введите вторую точку второй прямой: ");
                 double b2 = Convert.ToInt32(Console.ReadLine());
                 double x = Ics(k1,b1,k2,b2);
-                double y1 = k1 * x + b1; //Ygr(k1, b1, k2, b2);
-                double y2 = k2 * x + b2; //Ygr(k2, b2, k1, b1);
+                double y1 = k1 * x + b1; 
+                double y2 = k2 * x + b2; 
                 
                 if (y1 == y2)
                 {
@@ -36,7 +36,8 @@ namespace homework002
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("Ошибка введите числа");
+                    Console.WriteLine("Ошибка. Введите числа. Давайте попробуем еще раз");
+                    Main();
                 }
         }
         static double Ics (double k1, double b1, double k2, double b2) 
