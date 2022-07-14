@@ -9,13 +9,13 @@ namespace homework002
         {
             try
             {   
-                Console.WriteLine("Введите первую точку первой прямой: ");
+                Console.WriteLine("Введите первое значение: ");
                 double k1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Введите вторую точку первой прямой: ");
+                Console.WriteLine("Введите второе значение: ");
                 double b1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Введите первую точку второй прямой: ");
+                Console.WriteLine("Введите третье значение: ");
                 double k2 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Введите вторую точку второй прямой: ");
+                Console.WriteLine("Введите четвертое значение: ");
                 double b2 = Convert.ToInt32(Console.ReadLine());
                 double x = Ics(k1,b1,k2,b2);
                 double y1 = k1 * x + b1; 
