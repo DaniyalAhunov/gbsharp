@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/bin/Debug/net6.0/Homework002
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/bin/Debug/net6.0/Homework002.deps.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/bin/Debug/net6.0/Homework002.runtimeconfig.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/bin/Debug/net6.0/Homework002.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/bin/Debug/net6.0/Homework002.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/refint/Homework002.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/Homework002.genruntimeconfig.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson6/Homework002/obj/Debug/net6.0/ref/Homework002.dll
