@@ -11,8 +11,7 @@ namespace Seminar7
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-        {
+           
             Console.WriteLine("Введите количество столбцов");
             int m = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите количество строк");
@@ -41,7 +40,6 @@ namespace Seminar7
                 }
                 Console.WriteLine();
             }
-        }
         }
     }
 }
