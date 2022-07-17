@@ -15,20 +15,13 @@ namespace Seminar7
             int column = new Random().Next(5,7);
             int[,] array = new int[line, column];
             Console.WriteLine("Введите номер строки начинается с 1 ");
-            int positionList = Convert.ToInt32(Console.ReadLine())-1;
+            int positionLine = Convert.ToInt32(Console.ReadLine())-1;
             Console.WriteLine("Введите номер cтобца начинается с 1 ");
             int positionColumn = Convert.ToInt32(Console.ReadLine())-1;
             FillArray(array);
             PrintArray(array);
-            bool result = PositionReturn(array, positionList, positionColumn);
-            if (result == false)
-            {
-                Console.WriteLine("такого элемента в массиве нет");
-            }
-            else
-            {
-                Console.WriteLine($"Число в позиции лежит:{array[positionList, positionColumn]}");
-            }
+            string result = PositionReturn(array, positionLine, positionColumn);
+            Console.WriteLine(result);
         }
 
         static void FillArray(int[,] array)
@@ -43,7 +36,7 @@ namespace Seminar7
         }
         static void PrintArray(int[,] array)
         {
-            Console.WriteLine("Ваш массив ");
+            Console.WriteLine("Ваш массив: ");
             for (int i = 0; i < array.GetLength(0); i++)
             {
                 for (int j = 0; j < array.GetLength(1);j++)
@@ -53,12 +46,12 @@ namespace Seminar7
                 Console.WriteLine();
             }
         }
-        static bool PositionReturn(int[,] array, int posLine, int posColumn)
+        static string PositionReturn(int[,] array, int posLine, int posColumn)
         {
-            bool result = false;
+            string result = "Такого элемента в массиве нет";
             if (posLine < array.GetLength(0) && posColumn < array.GetLength(1))
             {
-                result = true;
+                result = $"Число в позиции лежит:{array[posLine, posColumn]}";
                 return result;
             }
             return result;
