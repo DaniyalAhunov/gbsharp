@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/bin/Debug/net6.0/Semminar
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/bin/Debug/net6.0/Semminar.deps.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/bin/Debug/net6.0/Semminar.runtimeconfig.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/bin/Debug/net6.0/Semminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/bin/Debug/net6.0/Semminar.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/refint/Semminar.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/Semminar.genruntimeconfig.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/Semminar/obj/Debug/net6.0/ref/Semminar.dll
