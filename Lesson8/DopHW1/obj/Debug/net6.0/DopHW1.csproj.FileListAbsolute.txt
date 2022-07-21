@@ -1,0 +1,15 @@
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.csproj.AssemblyReference.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.AssemblyInfoInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.AssemblyInfo.cs
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.csproj.CoreCompileInputs.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/bin/Debug/net6.0/DopHW1
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/bin/Debug/net6.0/DopHW1.deps.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/bin/Debug/net6.0/DopHW1.runtimeconfig.json
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/bin/Debug/net6.0/DopHW1.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/bin/Debug/net6.0/DopHW1.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/refint/DopHW1.dll
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.pdb
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/DopHW1.genruntimeconfig.cache
+/Users/danialahunov/Desktop/ГикБреинс/Семинары/C#/C#/Lesson8/DopHW1/obj/Debug/net6.0/ref/DopHW1.dll
